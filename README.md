@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Laura
 
-🎓 **PhD Researcher | Chemistry, Machine Learning, and Value Chain Optimisation | Imperial College London**
+🎓 **PhD Researcher | Chemistry, Machine Learning, Value Chain Optimisation | Imperial College London**
 
 I'm a first-year PhD student at **Imperial College London**, working within the **Centre for Doctoral Training in Green Industrial Futures (CDT-GIF)** and **BASF**. My research focuses on the intersection of **machine learning, sustainable chemistry, and supply chain optimisation**, aiming to develop data-driven systems that reduce the carbon footprint of chemical value chains.
 
